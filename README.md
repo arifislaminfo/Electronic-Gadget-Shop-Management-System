@@ -281,7 +281,6 @@ Below 10,000 BDT   →   No discount  (0%)
 **⭐ If you found this helpful, please give it a star! ⭐**
 
 ![C](https://img.shields.io/badge/Made%20with-C-blue?style=flat-square&logo=c)
-![NSU](https://img.shields.io/badge/NSU-2026-red?style=flat-square)
-![Love](https://img.shields.io/badge/Built%20with-%E2%9D%A4-red?style=flat-square)
+
 
 </div>

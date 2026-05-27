@@ -258,21 +258,11 @@ Below 10,000 BDT   →   No discount  (0%)
   <tr>
     <td align="center">
       <b>Ariful Islam</b><br/>
-      <sub>ID: 2222651643</sub><br/>
-      <sub>North South University</sub>
-    </td>
-    <td align="center">
-      <b>Arpita Raha</b><br/>
-      <sub>ID: 2232073643</sub><br/>
-      <sub>North South University</sub>
     </td>
   </tr>
 </table>
 
-**Supervised by:** Dr. Chowdhury Farhan Ahmed
-**Department:** Electrical and Computer Science Engineering
-**Course:** CSE115L — Programming Language Lab
-**University:** North South University, Dhaka, Bangladesh
+
 
 ---
 

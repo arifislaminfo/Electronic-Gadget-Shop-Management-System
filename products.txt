@@ -1,0 +1,10 @@
+1|Samsung Galaxy S24|Phone|Samsung|950000.00|48
+2|Sony WH-1000XM5|Audio|Sony|35000.00|45
+3|Logitech MX Master|Computer|Logitech|12000.00|43
+4|iphone 15|Phone|Apple|130000.00|0
+5|Dell Inspiron 15|Computer |Dell|75000.00|8
+6|JBL Flip 6|Audio|JBL|8500.00|15
+7|Xiaomi Band 8|Smartwatch |Xiaomi |3500.00|50
+8|Anker Power Bank|Accessories|Anker|2500.00|59
+9|Redmi Note 9 |Phone |Redmi|230000.00|40
+10|Walton|Television|Walton|650000.00|42

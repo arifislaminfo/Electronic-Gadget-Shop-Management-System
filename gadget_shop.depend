@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1777453269 source:c:\arif's world\cse 115\cse 115 project gadget_shop\gadget_shop\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
